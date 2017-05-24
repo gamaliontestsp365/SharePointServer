@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package dslVersion="1.0.0.0" 
+        Id="e0a9df28-0ecd-4623-8d6d-7de08225c99c" 
+        solutionId="e0a9df28-0ecd-4623-8d6d-7de08225c99c" 
+        xmlns="http://schemas.microsoft.com/VisualStudio/2008/SharePointTools/PackageModel" 
+        name="TestSharePointServer"
+        sharePointProductVersion="15.0">
+</package>
